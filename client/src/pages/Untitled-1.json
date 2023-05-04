@@ -1,0 +1,30 @@
+{
+    "product": {
+        "data": [
+            {
+                "_id": "636513cea5b57447ea20977e",
+                "type": "men",
+                "product_category": "tshirt",
+                "brand": "puma",
+                "description": "puma men's tshirt",
+                "category_id": "6364c21585cda74fa169ce9d",
+                "createdAt": "2022-11-04T13:29:51.030Z",
+                "updatedAt": "2022-11-04T13:29:51.030Z",
+                "__v": 0,
+                "new": {
+                    "_id": "63651b22a5e919d248a93223",
+                    "product_category": "tshirt",
+                    "size": "S",
+                    "availableQty": "15",
+                    "image": "https://m.media-amazon.com/images/I/71-L8UiKWxL._UX569_.jpg",
+                    "price": "1079",
+                    "color": "yellow",
+                    "product_id": "636513cea5b57447ea20977e",
+                    "createdAt": "2022-11-04T14:01:06.382Z",
+                    "updatedAt": "2022-11-04T14:01:06.382Z",
+                    "__v": 0
+                }
+            }
+        ]
+    }
+}
